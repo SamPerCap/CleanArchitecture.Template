@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE4A60-C841-4886-ABB1-CA00FBD8AB4C}|Domain\\Domain.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\domain\\entities\\userentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE4A60-C841-4886-ABB1-CA00FBD8AB4C}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9695AF00-3B01-49CC-B5A3-0F56B07A72CC}|Web.Api\\Web.Api.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9695AF00-3B01-49CC-B5A3-0F56B07A72CC}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9695AF00-3B01-49CC-B5A3-0F56B07A72CC}|Web.Api\\Web.Api.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9695AF00-3B01-49CC-B5A3-0F56B07A72CC}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7793C566-86D9-478E-9184-F7E0F66D946F}|Infrastructure\\Infrastructure.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\infrastructure\\entities\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7793C566-86D9-478E-9184-F7E0F66D946F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7793C566-86D9-478E-9184-F7E0F66D946F}|Infrastructure\\Infrastructure.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\infrastructure\\data\\applicationdbcontextinitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7793C566-86D9-478E-9184-F7E0F66D946F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontextinitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7793C566-86D9-478E-9184-F7E0F66D946F}|Infrastructure\\Infrastructure.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7793C566-86D9-478E-9184-F7E0F66D946F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7793C566-86D9-478E-9184-F7E0F66D946F}|Infrastructure\\Infrastructure.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\infrastructure\\data\\configuration\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7793C566-86D9-478E-9184-F7E0F66D946F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\configuration\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE4A60-C841-4886-ABB1-CA00FBD8AB4C}|Domain\\Domain.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\domain\\common\\lookups\\lookupentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE4A60-C841-4886-ABB1-CA00FBD8AB4C}|Domain\\Domain.csproj|solutionrelative:domain\\common\\lookups\\lookupentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|solutionrelative:application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\application\\users\\queries\\handlers\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|solutionrelative:application\\users\\queries\\handlers\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\application\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|solutionrelative:application\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|d:\\code\\c#\\cleantemplate\\justmatch-backend\\src\\application\\common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC30E7C-6D4D-45E4-BB22-CFBEF64CBC53}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\GuzmanCapa\\justmatch\\justmatch-backend\\src\\Web.Api\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Web.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Web.Api\\Program.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Web.Api\\Program.cs",
+              "RelativeToolTip": "Web.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:41:09.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Web.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Web.Api\\appsettings.json",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Web.Api\\appsettings.json",
+              "RelativeToolTip": "Web.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T18:41:08.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Infrastructure\\Entities\\LogEntry.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\LogEntry.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Infrastructure\\Entities\\LogEntry.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:40:42.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:39:49.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextInitialiser.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:39:48.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Infrastructure\\Data\\Configuration\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Configuration\\ServiceConfiguration.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Infrastructure\\Data\\Configuration\\ServiceConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Configuration\\ServiceConfiguration.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:39:35.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LookupEntity.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Domain\\Common\\Lookups\\LookupEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\Lookups\\LookupEntity.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Domain\\Common\\Lookups\\LookupEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\Lookups\\LookupEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:39:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Common\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Result.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Common\\Models\\Result.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:38:48.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:38:35.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T18:38:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "Application\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:18:11.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Domain\\Entities\\UserEntity\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserEntity\\User.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Domain\\Entities\\UserEntity\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserEntity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:02:38.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Users\\Queries\\Handlers\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\Queries\\Handlers\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Users\\Queries\\Handlers\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Users\\Queries\\Handlers\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:17:59.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Code\\GuzmanCapa\\justmatch\\justmatch-backend\\src\\Web.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\GuzmanCapa\\justmatch\\justmatch-backend\\src\\Web.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Code\\GuzmanCapa\\justmatch\\justmatch-backend\\src\\Web.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\GuzmanCapa\\justmatch\\justmatch-backend\\src\\Web.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:16:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Common\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Code\\C#\\CleanTemplate\\justmatch-backend\\src\\Application\\Common\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:02:18.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
